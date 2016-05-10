@@ -6,6 +6,7 @@ public class DerPattern {
 	int derNumber;
 	boolean value = false;
 
+	// Constructor
 	public DerPattern(int derNumber) {
 		this.derNumber = derNumber;
 		
