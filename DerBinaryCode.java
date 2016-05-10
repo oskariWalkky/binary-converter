@@ -7,6 +7,7 @@ public class DerBinaryCode {
 	private int derNumber;
 	private boolean[] derArray;
 
+	// Constructor
 	public DerBinaryCode(int derNumber) {
 		this.derNumber = derNumber;
 		boxSize(derNumber); // Determine array size
