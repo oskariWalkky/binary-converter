@@ -1,7 +1,7 @@
 # binary-converter
 Java learning project that takes an integer and converts it into binary.
 
-This is the first project I've created (outside of tutorials). It was a mind bender, but very satisfying to see it work.
+This is the first project I've created (outside of tutorials). It was a mind bender, but very satisfying to see it work. Not to mention very inefficient.
 
 (To make sense of this mess) The order of the files:
 
